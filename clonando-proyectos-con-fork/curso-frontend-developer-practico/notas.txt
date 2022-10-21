@@ -1,0 +1,13 @@
+#1 -> Create new apssword
+#2 -> Email reser password has been sent
+#3 -> Login - Formulario 
+#4 -> Crear cuenta - Formulario
+#5 -> Editar datos mi cuenta
+#6 -> Grid de productos
+#7 -> Menú desplegable de Mi Cuenta
+#8 -> Menú navegación versión mobile
+#9 -> Lista productos añadidos al carrito de la compra
+#10 -> My orders sin producto (pedidos anteriores?)
+#11 -> Header
+#12 -> Ficha de producto
+#13 -> Lista de productos preview carrito
